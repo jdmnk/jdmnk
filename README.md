@@ -3,13 +3,11 @@
 <br />
 
 <p align="center">
-  <img alt="Full-stack software engineer" src="https://img.shields.io/badge/Full--stack-software%20engineer-5755ff?style=flat-square">
-  <img alt="AI and Web3 products" src="https://img.shields.io/badge/AI%20%2B%20Web3-products-14b8a6?style=flat-square">
-  <img alt="Agentic workflows" src="https://img.shields.io/badge/Agentic-workflows-f97316?style=flat-square">
+  <img alt="Full-stack software engineer" src="https://img.shields.io/badge/Full--stack-software%20engineer-5755ff?style=flat-square">&nbsp;&nbsp;
+  <img alt="AI and Web3 products" src="https://img.shields.io/badge/AI%20%2B%20Web3-products-14b8a6?style=flat-square">&nbsp;&nbsp;
+  <img alt="Agentic workflows" src="https://img.shields.io/badge/Agentic-workflows-f97316?style=flat-square">&nbsp;&nbsp;
   <img alt="Generative art" src="https://img.shields.io/badge/Generative-art-ec4899?style=flat-square">
 </p>
-
-<br />
 
 <p align="center">
   <sub>
