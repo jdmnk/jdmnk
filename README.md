@@ -40,6 +40,8 @@
 | **[Gravenhold](https://github.com/jdmnk/gravenhold)** | Game      | Onchain fantasy RPG built with Dojo and Cairo on Starknet.                                           | [gravenhold.vercel.app](https://gravenhold.vercel.app) |
 | **[TSFXR](https://github.com/jdmnk/tsfxr)**           | Music     | Retro-style game sound effect generator built with TypeScript, React, Next.js, Shadcn, and Tailwind. | [tsfxr.jdmnk.dev](https://tsfxr.jdmnk.dev)             |
 
+<sub>Current public projects. Changes over time.</sub>
+
 ### 🧭 Background
 
 I am Jure, a software engineer and technical consultant based between Slovenia and Austria. I have worked across frontend, backend, infrastructure, data, and product since 2013, with recent work focused on AI and Web3.
