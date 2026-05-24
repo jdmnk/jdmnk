@@ -1,45 +1,43 @@
 <p align="center">
   <a href="https://github.com/jdmnk">
-    <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=111111&center=true&vCenter=true&width=620&height=44&lines=Full-stack+software+engineer;Building+AI+and+Web3+products;Technical+consultant+for+product+teams;Exploring+agentic+workflows;Generative+art+at+jdmnk.art" />
+    <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=5755FF&center=true&vCenter=true&width=620&height=44&lines=Full-stack+software+engineer;Building+AI+and+Web3+products;%F0%9F%A4%96+Recommender+systems+and+agents;Technical+consultant+for+product+teams;%F0%9F%8E%A8+Generative+art+at+jdmnk.art" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://jdmnk.dev">jdmnk.dev</a>
-  ·
-  <a href="https://x.com/jdmnk0">X</a>
-  ·
-  <a href="https://www.linkedin.com/in/jure-domajnko">LinkedIn</a>
-  ·
-  <a href="https://jdmnk.art">Generative art</a>
+  <a href="https://jdmnk.dev"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-jdmnk.dev-5755ff?style=for-the-badge"></a>
+  <a href="https://x.com/jdmnk0"><img alt="X" src="https://img.shields.io/badge/X-@jdmnk0-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/jure-domajnko"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jure%20Domajnko-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://jdmnk.art"><img alt="Generative art" src="https://img.shields.io/badge/Art-jdmnk.art-f97316?style=for-the-badge"></a>
 </p>
 
 ---
 
-### Current focus
+### 🎯 Current focus
 
 - Building end-to-end AI and Web3 products across frontend, backend, infrastructure, and product.
 - Working with agentic coding tools, autonomous workflows, and practical AI systems.
 - Consulting for product teams from technical planning through implementation.
 - Making generative art and small creative tools outside of client work.
 
-### Projects
+### ⭐ Projects
 
-| Project                                               | Type         | What it is                                                                                           | Link                                                                               |
-| ----------------------------------------------------- | ------------ | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| **Bitpanda Smart Search**                             | AI / Search  | Semantic search capabilities for Bitpanda's search service.                                          | [case study](https://labs.bitpanda.com/experiments/2026_03_04_smart_search/index/) |
-| **Vision dApp**                                       | Web3         | Decentralized app for interacting with the Vision token and ecosystem.                               | [app.vision.now](https://app.vision.now)                                           |
-| **Bitpanda Coach**                                    | AI / Chatbot | Multi-persona chatbot using multiple knowledge sources.                                              | [coach.bitpanda.com](https://coach.bitpanda.com)                                   |
-| **[Omen](https://github.com/jdmnk/omen)**             | Analytics    | Polymarket analytics for markets, wallets, positions, PnL, order books, and holders.                 | [code](https://github.com/jdmnk/omen)                                              |
-| **[Gravenhold](https://github.com/jdmnk/gravenhold)** | Game         | Onchain fantasy RPG built with Dojo and Cairo on Starknet.                                           | [code](https://github.com/jdmnk/gravenhold)                                        |
-| **[TSFXR](https://github.com/jdmnk/tsfxr)**           | Tool         | Retro-style game sound effect generator built with TypeScript, React, Next.js, Shadcn, and Tailwind. | [tsfxr.jdmnk.dev](https://tsfxr.jdmnk.dev)                                         |
+| Project                                               | Type      | What it is                                                                                           | Link                                                                               |
+| ----------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| **Bitpanda Smart Search**                             | AI        | Bitpanda's Semantic search.                                                                          | [case study](https://labs.bitpanda.com/experiments/2026_03_04_smart_search/index/) |
+| **Vision dApp**                                       | Web3      | dApp for interacting with the Vision token and ecosystem.                                            | [app.vision.now](https://app.vision.now)                                           |
+| **Bitpanda Coach**                                    | AI        | Multi-persona chatbot.                                                                               | [coach.bitpanda.com](https://coach.bitpanda.com)                                   |
+| **Bitpanda Recommender System**                       | AI        | Asset recommender system for Bitpanda Broker.                                                        |                                                                                    |
+| **[Omen](https://github.com/jdmnk/omen)**             | Analytics | Polymarket analytics for markets, wallets, positions, PnL, order books, and holders.                 | [code](https://github.com/jdmnk/omen)                                              |
+| **[Gravenhold](https://github.com/jdmnk/gravenhold)** | Game      | Onchain fantasy RPG built with Dojo and Cairo on Starknet.                                           | [code](https://github.com/jdmnk/gravenhold)                                        |
+| **[TSFXR](https://github.com/jdmnk/tsfxr)**           | Tool      | Retro-style game sound effect generator built with TypeScript, React, Next.js, Shadcn, and Tailwind. | [tsfxr.jdmnk.dev](https://tsfxr.jdmnk.dev)                                         |
 
-### Writing
+### ✍️ Writing
 
 - **[Bitpanda Smart Search](https://labs.bitpanda.com/experiments/2026_03_04_smart_search/index/)** - how we built Bitpanda's semantic search capabilities.
 - **[Prompting agents for maximum accuracy](https://jdmnk.dev/articles/prompting-agents-for-maximum-accuracy)** - notes on working with AI agents and prompt design.
 
-### Background
+### 🧭 Background
 
 I am Jure Domajnko, a software engineer and technical consultant based between Slovenia and Austria. I have worked across frontend, backend, infrastructure, data, and product since 2013, with recent work focused on AI and Web3.
 
