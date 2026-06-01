@@ -10,7 +10,6 @@
 </p>
 
 <p align="center">
-  <sub>
     <a href="https://jdmnk.dev">portfolio</a>
     &nbsp;&nbsp;/&nbsp;&nbsp;
     <a href="https://x.com/jdmnk0">x.com</a>
@@ -18,7 +17,6 @@
     <a href="https://www.linkedin.com/in/jure-domajnko">linkedin</a>
     &nbsp;&nbsp;/&nbsp;&nbsp;
     <a href="https://jdmnk.art">art</a>
-  </sub>
 </p>
 
 <br />
