@@ -32,12 +32,42 @@
 
 ### ⭐ Github projects
 
-| Project                                                               | Type      | What it is                                                                                                            | Link                                                   |
-| --------------------------------------------------------------------- | --------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| **[Codex Imagegen CLI](https://github.com/jdmnk/codex-imagegen-cli)** | AI CLI    | Image generation CLI that reuses your [Codex](https://github.com/openai/codex) (ChatGPT) login — no API key required. | [code](https://github.com/jdmnk/codex-imagegen-cli)    |
-| **[Omen](https://github.com/jdmnk/omen)**                             | Analytics | Polymarket analytics for markets, wallets, positions, PnL, order books, and holders.                                  | [code](https://github.com/jdmnk/omen)                  |
-| **[Gravenhold](https://github.com/jdmnk/gravenhold)**                 | Game      | Onchain fantasy RPG built with Dojo and Cairo on Starknet.                                                            | [gravenhold.vercel.app](https://gravenhold.vercel.app) |
-| **[TSFXR](https://github.com/jdmnk/tsfxr)**                           | Music     | Retro-style game sound effect generator built with TypeScript, React, Next.js, Shadcn, and Tailwind.                  | [tsfxr.jdmnk.dev](https://tsfxr.jdmnk.dev)             |
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Type</th>
+      <th>What it is</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong><a href="https://github.com/jdmnk/codex-imagegen-cli">Codex Imagegen CLI</a></strong></td>
+      <td>AI</td>
+      <td>Image generation CLI that reuses your <a href="https://github.com/openai/codex">Codex</a> (ChatGPT) login — no API key required.</td>
+      <td><a href="https://github.com/jdmnk/codex-imagegen-cli">code</a></td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://github.com/jdmnk/omen">Omen</a></strong></td>
+      <td>Analytics</td>
+      <td>Polymarket analytics for markets, wallets, positions, PnL, order books, and holders.</td>
+      <td><a href="https://github.com/jdmnk/omen">code</a></td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://github.com/jdmnk/gravenhold">Gravenhold</a></strong></td>
+      <td>Game</td>
+      <td>Onchain fantasy RPG built with Dojo and Cairo on Starknet.</td>
+      <td><a href="https://gravenhold.vercel.app">link</a></td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://github.com/jdmnk/tsfxr">TSFXR</a></strong></td>
+      <td>Music</td>
+      <td>Retro-style game sound effect generator built with TypeScript, React, Next.js, Shadcn, and Tailwind.</td>
+      <td><a href="https://tsfxr.jdmnk.dev">link</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <sub>Current public projects. Changes over time.</sub>
 
