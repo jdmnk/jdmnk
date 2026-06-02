@@ -25,18 +25,19 @@
 
 ### 🎯 Current focus
 
-- Building end-to-end AI and Web3 products across frontend, backend, infrastructure, and product.
-- Working with agentic coding tools, autonomous workflows, and practical AI systems.
-- Consulting for product teams from technical planning through implementation.
-- Making generative art, games and various other types of projects outside work.
+- Building full-stack and end-to-end AI and Web3 products — frontend, backend, infrastructure, and product.
+- Working and building withing the agentic AI tools ecosystem.
+- Consulting for product teams — from technical planning through implementation.
+- Making generative art, games, music and more!
 
 ### ⭐ Github projects
 
-| Project                                               | Type      | What it is                                                                                           | Link                                                   |
-| ----------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| **[Omen](https://github.com/jdmnk/omen)**             | Analytics | Polymarket analytics for markets, wallets, positions, PnL, order books, and holders.                 | [code](https://github.com/jdmnk/omen)                  |
-| **[Gravenhold](https://github.com/jdmnk/gravenhold)** | Game      | Onchain fantasy RPG built with Dojo and Cairo on Starknet.                                           | [gravenhold.vercel.app](https://gravenhold.vercel.app) |
-| **[TSFXR](https://github.com/jdmnk/tsfxr)**           | Music     | Retro-style game sound effect generator built with TypeScript, React, Next.js, Shadcn, and Tailwind. | [tsfxr.jdmnk.dev](https://tsfxr.jdmnk.dev)             |
+| Project                                                               | Type      | What it is                                                                                                            | Link                                                   |
+| --------------------------------------------------------------------- | --------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| **[Codex Imagegen CLI](https://github.com/jdmnk/codex-imagegen-cli)** | AI CLI    | Image generation CLI that reuses your [Codex](https://github.com/openai/codex) (ChatGPT) login — no API key required. | [code](https://github.com/jdmnk/codex-imagegen-cli)    |
+| **[Omen](https://github.com/jdmnk/omen)**                             | Analytics | Polymarket analytics for markets, wallets, positions, PnL, order books, and holders.                                  | [code](https://github.com/jdmnk/omen)                  |
+| **[Gravenhold](https://github.com/jdmnk/gravenhold)**                 | Game      | Onchain fantasy RPG built with Dojo and Cairo on Starknet.                                                            | [gravenhold.vercel.app](https://gravenhold.vercel.app) |
+| **[TSFXR](https://github.com/jdmnk/tsfxr)**                           | Music     | Retro-style game sound effect generator built with TypeScript, React, Next.js, Shadcn, and Tailwind.                  | [tsfxr.jdmnk.dev](https://tsfxr.jdmnk.dev)             |
 
 <sub>Current public projects. Changes over time.</sub>
 
