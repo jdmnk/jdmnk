@@ -49,6 +49,12 @@
       <td><a href="https://github.com/jdmnk/codex-imagegen-cli">code</a></td>
     </tr>
     <tr>
+      <td><strong><a href="https://github.com/jdmnk/context-checkpoint-skill">Context Checkpoint skill</a></strong></td>
+      <td>AI</td>
+      <td>Agent skill to accurately persist context before compaction, restarts or handoffs.</td>
+      <td><a href="https://github.com/jdmnk/context-checkpoint-skill">code</a></td>
+    </tr>
+    <tr>
       <td><strong><a href="https://github.com/jdmnk/omen">Omen</a></strong></td>
       <td>Analytics</td>
       <td>Polymarket analytics for markets, wallets, positions, PnL, order books, and holders.</td>
