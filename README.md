@@ -85,8 +85,8 @@
 
 ### 🧭 Background
 
-I am Jure, a software engineer and technical consultant based between Slovenia and Austria. I have worked across frontend, backend, infrastructure, data, and product since 2013, with recent work focused on AI and Web3.
+Hi, I'm Jure 👋 I've been building software for 13+ years, across frontend, backend, infra and product, focused mostly on applied AI these days. I helped start and lead the AI team at a 7M+ user fintech — chatbots, semantic search, recommenders, that kind of thing.
 
-Previously, I founded Bitpanda's AI team and worked on chatbot, recommender, and semantic search systems. Before that, I built and maintained large-scale frontend and CMS platforms at Bitpanda and Entain.
+I like building things end to end, from POC to production. Lately I'm deep in agentic coding tools (Codex, Claude Code, Cursor) and build my own tooling on top of them, some of them live right here.
 
 <p align="center"><sub>Open to interesting AI, Web3, product, and agentic workflow problems. <a href="https://x.com/jdmnk0">Say hi.</a></sub></p>
