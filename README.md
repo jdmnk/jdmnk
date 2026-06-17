@@ -55,6 +55,12 @@
       <td><a href="https://github.com/jdmnk/context-checkpoint-skill">code</a></td>
     </tr>
     <tr>
+      <td><strong><a href="https://github.com/jdmnk/pixel-space">Pixel Space</a></strong></td>
+      <td>AI</td>
+      <td>Tiny generative pixel-art planet and star toy. Claude Fable 5 few-shot proof of concept.</td>
+      <td><a href="https://github.com/jdmnk/pixel-space">code</a></td>
+    </tr>
+    <tr>
       <td><strong><a href="https://github.com/jdmnk/omen">Omen</a></strong></td>
       <td>Analytics</td>
       <td>Polymarket analytics for markets, wallets, positions, PnL, order books, and holders.</td>
