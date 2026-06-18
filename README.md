@@ -43,6 +43,12 @@
   </thead>
   <tbody>
     <tr>
+      <td><strong><a href="https://github.com/jdmnk/styles-iterator">Styles Iterator</a></strong></td>
+      <td>AI</td>
+      <td>Generate, run, and visually compare AI-generated interface variants in isolated Git worktrees.</td>
+      <td><a href="https://github.com/jdmnk/styles-iterator">code</a></td>
+    </tr>
+    <tr>
       <td><strong><a href="https://github.com/jdmnk/codex-imagegen-cli">Codex Imagegen CLI</a></strong></td>
       <td>AI</td>
       <td>Image generation CLI that reuses your <a href="https://github.com/openai/codex">Codex</a> (ChatGPT) login — no API key required.</td>
