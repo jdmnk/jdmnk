@@ -23,12 +23,13 @@
 
 ---
 
-### 🎯 Current focus
+### 👋 Welcome
 
-- Building full-stack and end-to-end AI and Web3 products — frontend, backend, infrastructure, and product.
-- Working and building withing the agentic AI tools ecosystem.
-- Consulting for product teams — from technical planning through implementation.
-- Making generative art, games, music and more!
+Hi, I’m **Jure**, and I love solving difficult problems. I’ve been writing code since I was a kid and I’ve spent **13+ years** building software professionally across **frontend, backend, infrastructure, and product**. These days my focus has shifted almost entirely to **applied AI**.
+
+I’m a passionate **self-learner, explorer, and builder**. I spend most of my time building things, you can see some of my recent public work below.
+
+I regularly post about AI and all things related to it on **[X](https://x.com/jdmnk0)**.
 
 ### ⭐ Github projects
 
@@ -80,13 +81,5 @@
     </tr>
   </tbody>
 </table>
-
-<sub>Current public projects. Changes over time.</sub>
-
-### 🧭 Background
-
-Hi, I'm Jure 👋 I've been building software for 13+ years, across frontend, backend, infra and product, focused mostly on applied AI these days. I helped start and lead the AI team at a 7M+ user fintech — chatbots, semantic search, recommenders, that kind of thing.
-
-I like building things end to end, from POC to production. Lately I'm deep in agentic coding tools (Codex, Claude Code, Cursor) and build my own tooling on top of them, some of them live right here.
 
 <p align="center"><sub>Open to interesting AI, Web3, product, and agentic workflow problems. <a href="https://x.com/jdmnk0">Say hi.</a></sub></p>
