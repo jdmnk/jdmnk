@@ -73,12 +73,6 @@
       <td><a href="https://github.com/jdmnk/omen">code</a></td>
     </tr>
     <tr>
-      <td><strong><a href="https://github.com/jdmnk/gravenhold">Gravenhold</a></strong></td>
-      <td>Game</td>
-      <td>Onchain fantasy RPG built with Dojo and Cairo on Starknet.</td>
-      <td><a href="https://gravenhold.vercel.app">link</a></td>
-    </tr>
-    <tr>
       <td><strong><a href="https://github.com/jdmnk/tsfxr">TSFXR</a></strong></td>
       <td>Music</td>
       <td>Retro-style game sound effect generator built with TypeScript, React, Next.js, Shadcn, and Tailwind.</td>
