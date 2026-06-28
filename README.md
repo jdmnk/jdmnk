@@ -1,16 +1,7 @@
 <h1 align="center">Jure Domajnko</h1>
 
-<br />
-
 <p align="center">
-  <img alt="Full-stack software engineer" src="https://img.shields.io/badge/Full--stack-software%20engineer-5755ff?style=flat-square">&nbsp;&nbsp;
-  <img alt="AI and Web3 products" src="https://img.shields.io/badge/AI%20%2B%20Web3-products-14b8a6?style=flat-square">&nbsp;&nbsp;
-  <img alt="Agentic workflows" src="https://img.shields.io/badge/Agentic-workflows-f97316?style=flat-square">&nbsp;&nbsp;
-  <img alt="Generative art" src="https://img.shields.io/badge/Generative-art-ec4899?style=flat-square">
-</p>
-
-<p align="center">
-    <a href="https://jdmnk.dev">portfolio</a>
+    <a href="https://jdmnk.dev">website</a>
     &nbsp;&nbsp;/&nbsp;&nbsp;
     <a href="https://x.com/jdmnk0">x.com</a>
     &nbsp;&nbsp;/&nbsp;&nbsp;
@@ -19,19 +10,9 @@
     <a href="https://jdmnk.art">art</a>
 </p>
 
-<br />
+Hi, I'm Jure, I love to solve problems and build things, and then build some more. Deep into AI and everything related to it. On this page you can find some proejcts I decided to open source.
 
----
-
-### 👋 Welcome
-
-Hi, I’m **Jure**, and I love solving difficult problems. I’ve been writing code since I was a kid and I’ve spent **13+ years** building software professionally across **frontend, backend, infrastructure, and product**. These days my focus has shifted almost entirely to **applied AI**.
-
-I’m a passionate **self-learner, explorer, and builder**. I spend most of my time building things, you can see some of my recent public work below.
-
-I regularly post about AI and all things related to it on **[X](https://x.com/jdmnk0)**.
-
-### ⭐ Github projects
+<p align="center">⭐ ⭐ ⭐ </p>
 
 <table>
   <thead>
@@ -46,13 +27,13 @@ I regularly post about AI and all things related to it on **[X](https://x.com/jd
     <tr>
       <td><strong><a href="https://github.com/jdmnk/styles-iterator">Styles Iterator</a></strong></td>
       <td>AI</td>
-      <td>Generate, run, and visually compare AI-generated interface variants in isolated Git worktrees.</td>
+      <td>Easily generate, run, and visually compare AI-generated interface variants in isolated Git worktrees.</td>
       <td><a href="https://github.com/jdmnk/styles-iterator">code</a></td>
     </tr>
     <tr>
       <td><strong><a href="https://github.com/jdmnk/codex-imagegen-cli">Codex Imagegen CLI</a></strong></td>
       <td>AI</td>
-      <td>Image generation CLI that reuses your <a href="https://github.com/openai/codex">Codex</a> (ChatGPT) login — no API key required.</td>
+      <td>Image generation CLI that reuses your <a href="https://github.com/openai/codex">Codex</a> (ChatGPT) login, no API key required.</td>
       <td><a href="https://github.com/jdmnk/codex-imagegen-cli">code</a></td>
     </tr>
     <tr>
@@ -64,7 +45,7 @@ I regularly post about AI and all things related to it on **[X](https://x.com/jd
     <tr>
       <td><strong><a href="https://github.com/jdmnk/pixel-space">Pixel Space</a></strong></td>
       <td>AI</td>
-      <td>Tiny generative pixel-art planet and star toy. Claude Fable 5 few-shot proof of concept.</td>
+      <td>Tiny generative pixel-art planet and star toy. Claude Fable 5 few-shot POC.</td>
       <td><a href="https://github.com/jdmnk/pixel-space">code</a></td>
     </tr>
     <tr>
@@ -81,5 +62,3 @@ I regularly post about AI and all things related to it on **[X](https://x.com/jd
     </tr>
   </tbody>
 </table>
-
-<p align="center"><sub>Open to interesting AI, Web3, product, and agentic workflow problems. <a href="https://x.com/jdmnk0">Say hi.</a></sub></p>
