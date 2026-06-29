@@ -25,6 +25,12 @@ Hi, I'm Jure, I love to solve problems and build things, and then build some mor
   </thead>
   <tbody>
     <tr>
+      <td><strong><a href="https://github.com/jdmnk/veriroot">veriroot</a></strong></td>
+      <td>AI</td>
+      <td>Content-provenance recovery registry: SSCD/PDQ perceptual fingerprints recover an image's origin after metadata stripping, with offline-verifiable Merkle-log certificates.</td>
+      <td><a href="https://github.com/jdmnk/veriroot">code</a></td>
+    </tr>
+    <tr>
       <td><strong><a href="https://github.com/jdmnk/styles-iterator">Styles Iterator</a></strong></td>
       <td>AI</td>
       <td>Easily generate, run, and visually compare AI-generated interface variants in isolated Git worktrees.</td>
