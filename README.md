@@ -33,7 +33,7 @@ Hi, I'm Jure, I love to solve problems and build things, and then build some mor
     <tr>
       <td><strong><a href="https://github.com/jdmnk/veriroot">Veriroot</a></strong></td>
       <td>AI</td>
-      <td>Content-provenance recovery registry: SSCD/PDQ perceptual fingerprints recover an image's origin after metadata stripping, with offline-verifiable Merkle-log certificates.</td>
+      <td>Recover an image's origin after the web strips its metadata — with a certificate anyone can verify offline.</td>
       <td><a href="https://github.com/jdmnk/veriroot">code</a></td>
     </tr>
     <tr>
