@@ -31,7 +31,7 @@ Hi, I'm Jure, I love to solve problems and build things, and then build some mor
       <td><a href="https://github.com/jdmnk/design-benchmark">code</a></td>
     </tr>
     <tr>
-      <td><strong><a href="https://github.com/jdmnk/veriroot">veriroot</a></strong></td>
+      <td><strong><a href="https://github.com/jdmnk/veriroot">Veriroot</a></strong></td>
       <td>AI</td>
       <td>Content-provenance recovery registry: SSCD/PDQ perceptual fingerprints recover an image's origin after metadata stripping, with offline-verifiable Merkle-log certificates.</td>
       <td><a href="https://github.com/jdmnk/veriroot">code</a></td>
