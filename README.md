@@ -10,7 +10,7 @@
     <a href="https://jdmnk.art">art</a>
 </p>
 
-Hi, I'm Jure, I love to solve problems and build things, and then build some more. Deep into AI and everything related to it. On this page you can find some proejcts I decided to open source.
+Hi, I'm Jure, I love to solve problems and build things. Deep into AI and everything related to it. On this page you can find some projects I decided to open source.
 
 <p align="center">⭐ ⭐ ⭐ </p>
 
