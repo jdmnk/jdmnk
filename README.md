@@ -25,7 +25,7 @@ Hi, I'm Jure, I love to solve problems and build things. Deep into AI and everyt
   </thead>
   <tbody>
     <tr>
-      <td><strong><a href="https://ambiland.jdmnk.dev">Ambiland II</a></strong></td>
+      <td><strong><a href="https://ambiland.jdmnk.dev">Ambiland</a></strong></td>
       <td>Music</td>
       <td>The app I always dreamed of building. Radio from outer space: endless, live-generated ambient music of countless cosmic flavors.</td>
       <td><a href="https://ambiland.jdmnk.dev">link</a></td>
