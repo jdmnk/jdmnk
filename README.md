@@ -37,6 +37,12 @@ Hi, I'm Jure, I love to solve problems and build things. Deep into AI and everyt
       <td><a href="https://github.com/jdmnk/design-benchmark">code</a> / <a href="https://design-benchmark.jdmnk.dev">link</a></td>
     </tr>
     <tr>
+      <td><strong><a href="https://github.com/jdmnk/situational-readiness">Situational Readiness</a></strong></td>
+      <td>Data</td>
+      <td>Interactive AI Economic Impact Map — 100 jobs across 19 industries, colored by five fates and their second-order exposure: shrinking customer incomes, displaced workers flooding in, eroding tax bases.</td>
+      <td><a href="https://github.com/jdmnk/situational-readiness">code</a> / <a href="https://jdmnk.github.io/situational-readiness/">link</a></td>
+    </tr>
+    <tr>
       <td><strong><a href="https://github.com/jdmnk/veriroot">Veriroot</a></strong></td>
       <td>AI</td>
       <td>Image provenance that survives screenshots, recompression and CDN transcodes: fingerprint the pixels, not the file, and prove the origin offline.</td>
